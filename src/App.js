@@ -1,24 +1,51 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Login from "./components/Login";
+import { useState } from "react";
+import Album from "./components/Album";
+import { createTheme, ThemeProvider } from "@mui/material/styles";
+import CssBaseline from "@mui/material/CssBaseline";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function App() {
+  let [passwordAccepted, setPasswordAccepted] = useState();
+
+  const defaultTheme = createTheme({
+    palette: {
+      mode: "light",
+      background: {
+        default: "#f5eccd",
+      },
+      primary: {
+        main: "#cd8987",
+      },
+      secondary: {
+        main: "#8093f1",
+      },
+      info: {
+        main: "#cd8987",
+      },
+      text: {
+        primary: "rgba(88,54,75,0.87)",
+        secondary: "rgba(88,54,75,0.87)",
+      },
+    },
+  });
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={defaultTheme}>
+      <CssBaseline />
+      <Header />
+      {passwordAccepted ? (
+        <>
+          <Album />
+          <Footer />
+        </>
+      ) : (
+        <Login setPasswordAccepted={setPasswordAccepted} />
+      )}
+    </ThemeProvider>
   );
 }
 

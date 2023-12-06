@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "title one",
+    "copy": "this is the copy of the media card.",
+    "image": "https://source.unsplash.com/random?wallpapers"
+  },
+  {
+    "id": 2,
+    "title": "title two",
+    "copy": "this is the copy of the media card.",
+    "image": "https://source.unsplash.com/random?wallpapers"
+  },
+  {
+    "id": 3,
+    "title": "title three",
+    "copy": "this is the copy of the media card.",
+    "image": "https://source.unsplash.com/random?wallpapers"
+  }
+]
