@@ -5,10 +5,10 @@ import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import { CardActionArea } from "@mui/material";
 
-export default function ArtPreview({ id, title, copy, image }) {
+export default function ArtPreview({ id, title, copy, image, ...props }) {
   return (
     <div id={id}>
-      <CardActionArea>
+      <CardActionArea {...props}>
         <Card
           sx={{
             height: "100%",

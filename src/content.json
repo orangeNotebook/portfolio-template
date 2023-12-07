@@ -1,20 +1,156 @@
 [
   {
     "id": 1,
-    "title": "title one",
-    "copy": "this is the copy of the media card.",
-    "image": "https://source.unsplash.com/random?wallpapers"
+    "title": "Loftia Emoji Contest",
+    "copy": "In this project I wanted to try create an animated, rigged, emoji.",
+    "image": "https://cdn.discordapp.com/attachments/867871146430955532/1182114376027742258/peeble.gif?ex=658384cd&is=65710fcd&hm=b3ac5ede8abb694bc614f734c525aad21776ed8dad159a7a169a8e64dfa1bbd4&",
+    "details": {
+      "heading": "Loftia Emoji Contest",
+      "copy": "Rigged the character with bones. I was able to complete this in a short time frame, and was able to learn about compositor nodes in the process. I would clean up the topology and use PBR if I had another chance to do it again.",
+      "images": [
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182287758274859059/Untitled_Artwork.png?ex=65842647&is=6571b147&hm=3c4baa82689ee7623656eaf81a5c8c230a98702dd879c7d8536df060d6509705&",
+          "rows": 2,
+          "cols": 4,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182113494557016194/image.png?ex=658383fb&is=65710efb&hm=02dfbab6e93bed0419423f0c5173870bf043d14fe3ec97e88d33e1267234bead&",
+          "rows": 2,
+          "cols": 4,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182113567223320577/image.png?ex=6583840d&is=65710f0d&hm=6af452fdfe248c8c9635ca7bf4fa000f930dace6253ab6e5a8fdb6478c123fd6&",
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182113609975865424/image.png?ex=65838417&is=65710f17&hm=e3eb061ec42d89fe6ff6c86c9d43c32655041bf7c098290bf5e7f0ca0701f4ee&",
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182114376027742258/peeble.gif?ex=658384cd&is=65710fcd&hm=b3ac5ede8abb694bc614f734c525aad21776ed8dad159a7a169a8e64dfa1bbd4&",
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182114375578964059/superhyperpeeble.gif?ex=658384cd&is=65710fcd&hm=81dbbc5df954b46c201b719ef50c7f85e6192bd65aa4667e226017f899fd7da3&",
+          "title": "An image of ..."
+        }
+      ]
+    }
   },
   {
     "id": 2,
-    "title": "title two",
-    "copy": "this is the copy of the media card.",
-    "image": "https://source.unsplash.com/random?wallpapers"
+    "title": "Loftia Fanart Contest",
+    "copy": "In this project I learnt about building a scene and animating a character within it.",
+    "image": "https://cdn.discordapp.com/attachments/507268798856822796/1182135226609184798/loftiasubmission-qyuupi_1.gif?ex=65839839&is=65712339&hm=9ce823ad7c33698474cebbabe18e7aa05444b7f6640a72bc4454220e3df98bd5&",
+    "details": {
+      "heading": "Loftia Fanart Contest",
+      "copy": "In this project I was able to learn about building a scene and animating a character within that. I was able to animate objects using constraints, as well as rig the character's clothing to match the body. The animation came out cleaner than the emoji contest and I learnt about the different render engines. A critique of this piece would be its poor topology around the mouth area of the character, and the hair looking very unstylised.",
+      "images": [
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182108313572364288/image.png?ex=65837f28&is=65710a28&hm=5386bebaaffa02f52c38dc18d6ca14579d7bb0ddfd3a54c65e4338b8b9b0f3df&",
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182108655802396802/image.png?ex=65837f7a&is=65710a7a&hm=c685f26f9e13b3b4a61036a1cff7f4b2e0e35f7ffdf0008d4777528c908b8c80&",
+          "rows": 1,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182111863220215939/Untitled_video_1.gif?ex=65838276&is=65710d76&hm=10c27fd14be0aed1cb4bb1a8d67a16880efaa48f801c1f08c94dc6f3f9ca012b&",
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182112391207591946/image.png?ex=658382f4&is=65710df4&hm=ea190e09d1ee3b1d3e6f3a54a0918d66fd42b6be6fb92600880077e732238332&",
+          "rows": 1,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/507268798856822796/1182135226609184798/loftiasubmission-qyuupi_1.gif?ex=65839839&is=65712339&hm=9ce823ad7c33698474cebbabe18e7aa05444b7f6640a72bc4454220e3df98bd5&",
+          "rows": 3,
+          "cols": 2,
+          "title": "An image of ..."
+        }
+      ]
+    }
   },
   {
     "id": 3,
-    "title": "title three",
-    "copy": "this is the copy of the media card.",
-    "image": "https://source.unsplash.com/random?wallpapers"
+    "title": "Mid Poly Character",
+    "copy": "In this project I wanted to make a chibi character in Blender, along with an outfit using Marvelous Designer.",
+    "image": "https://cdn.discordapp.com/attachments/867871146430955532/1181570708493565992/image.png?ex=65818a79&is=656f1579&hm=f7914e763e8c233538aa74187517d2a06fbc93e331ae1accb91f37aafa4d1bd4&",
+    "details": {
+      "heading": "Mid Poly Character",
+      "copy": "In this project I wanted to make a chibi character along with an outfit. The topology came out much cleaner, and I learnt how to texture eyes, (the eyes being fully procedural and rigged). The hair was made using geometry nodes, and the clothing made using Marvelous Designer. It is currently still a WIP, and I'm learning Substance designer so that I can create my own materials for the clothing to fit my needs.",
+      "images": [
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182287715060940841/image.png?ex=6584263d&is=6571b13d&hm=3d2d52c72a854f4f3088529e1595386f60b60ff243e995ac842d7b6a7d898c75&",
+          "rows": 2,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182106967934779442/image.png?ex=65837de7&is=657108e7&hm=7ec9a0d69968885decf74695a8f2c8d17667ea26abd75d9fc7326db91ac26b99&",
+          "rows": 2,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182106224293064764/image.png?ex=65837d36&is=65710836&hm=1b5234d3133c2d05af80df078490e8edaa88a4a94644d2052a061633f0ec4a2d&",
+          "rows": 2,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1181570708493565992/image.png?ex=65818a79&is=656f1579&hm=f7914e763e8c233538aa74187517d2a06fbc93e331ae1accb91f37aafa4d1bd4&",
+          "rows": 2,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182106058429317183/image.png?ex=65837d0e&is=6571080e&hm=a688758c9165eac8ba37d2b24d2903217b051002263dd06640a902e73b46d8d2&",
+          "rows": 2,
+          "cols": 4,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182106119292866642/image.png?ex=65837d1d&is=6571081d&hm=2e5d6f0b68456bb32f00345c4d073a294190b5b1e60c8b316dfd1c57c646e669&",
+          "rows": 2,
+          "cols": 1,
+          "title": "An image of ..."
+        },
+
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182106252914999307/image.png?ex=65837d3d&is=6571083d&hm=8b1fcf0d935bc398a9496ee557f2da8d1ac60c1787f1973844788adbd4fd8c50&",
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182106288973434910/image.png?ex=65837d45&is=65710845&hm=6309fc3b1bf8f3c1f9a1a28db77a48ae06e08fa50d3f4e8600a6514f9798b051&",
+          "rows": 1,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182105384253669447/chibiheadrender.png?ex=65837c6e&is=6571076e&hm=c5350d67e07a2a354c36060ecb445732211b732e7f3a971da486c63c0933ac49&",
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182115713150881933/image.png?ex=6583860c&is=6571110c&hm=a6419c6f7b9aedaa11c24b576ea82dc5d4035dd20a066b16a564f853e3b3a40d&",
+          "rows": 1,
+          "cols": 2,
+          "title": "An image of ..."
+        },
+        {
+          "img": "https://cdn.discordapp.com/attachments/867871146430955532/1182115495680409681/snapshot2.png?ex=658385d8&is=657110d8&hm=33755cf5ea4d20505f96a9375a8e071d9d7bf5a484cfebb41714ff1b8eed984b&",
+          "rows": 2,
+          "cols": 2,
+          "title": "An image of ..."
+        }
+      ]
+    }
   }
 ]

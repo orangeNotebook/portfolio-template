@@ -8,7 +8,7 @@ function Copyright() {
     <Typography variant="body2" color="text.secondary" align="center">
       {"Copyright © "}
       <Link color="inherit" href="https://mui.com/">
-        Your Website
+        Angel King
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}
@@ -20,16 +20,16 @@ export default function Footer() {
   return (
     <Box sx={{ p: 6 }} component="footer">
       <Typography variant="h6" align="center" gutterBottom>
-        Footer
+        Thanks!
       </Typography>
-      <Typography
+      {/* <Typography
         variant="subtitle1"
         align="center"
         color="text.secondary"
         component="p"
       >
         Something here to give the footer a purpose!
-      </Typography>
+      </Typography> */}
       <Copyright />
     </Box>
   );

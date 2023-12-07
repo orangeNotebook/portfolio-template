@@ -13,7 +13,7 @@ export default function Login({ setPasswordAccepted }) {
 
   let handleSubmit = (e) => {
     e.preventDefault();
-    if (passwordInput === "123") {
+    if (passwordInput === process.env.REACT_APP_PASSWORD) {
       setPasswordAccepted(true);
       setInvalid(false);
     } else {
